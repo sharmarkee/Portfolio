@@ -1,4 +1,3 @@
-# Portfolio
 <!DOCTYPE html>
 <html lang="en" >
     <head>
@@ -90,10 +89,38 @@
 <p class="section__subtitle"></p>
 
 <div class="portfolio">
+    <!--Portfolio item 01-->
     <a href="#" class="portfolio__item">
-        <img src="" alt="">
+    <img src="portolio-01.jpg" alt="" class="portfolio__img">
     </a>
+     
+    <!--Portfolio item 01-->
+      <a href="#" class="portfolio__item">
+        <img src="portolio-01.jpg" alt="" class="portfolio__img">
+        </a>
+
+         <!--Portfolio item 02-->
+      <a href="#" class="portfolio__item">
+        <img src="portolio-01.jpg" alt="" class="portfolio__img">
+        </a>
+
+         <!--Portfolio item 03-->
+      <a href="#" class="portfolio__item">
+        <img src="portolio-01.jpg" alt="" class="portfolio__img">
+        </a>
 </div>
 </section>
+
+<!--Footer-->
+<footer>
+    <a href="mailto:esharmarke2@gmail.com" class="footer_link">esharmarke2gmail.com</a>
+    <ul class="social-list">
+        <li class="social-list__item"><a class="social-list__link" href="https://dribble.com">A</a></li>
+        <li class="social-list__item"><a class="social-list__link" href="https:///github.com">B</a></li>
+        <li class="social-list__item"><a class="social-list__link" href="https://leetcode.com">C</a></li>
+        <li class="social-list__item"><a class="social-list__link"></a></li>
+
+    </ul>
+</footer>
       </body>
     </html>

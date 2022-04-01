@@ -2,7 +2,7 @@
 <html lang="en" >
     <head>
         <meta charset="UTF-8"> 
-<meta name="viewport" content="width= device-width, intial-scale= 1.0">
+<meta name="viewport" content="width= device-width, initial-scale= 1.0">
     <title> Sharmarke's Portfolio Website </title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 
@@ -116,11 +116,27 @@
     <a href="mailto:esharmarke2@gmail.com" class="footer_link">esharmarke2gmail.com</a>
     <ul class="social-list">
         <li class="social-list__item"><a class="social-list__link" href="https://dribble.com">A</a></li>
-        <li class="social-list__item"><a class="social-list__link" href="https:///github.com">B</a></li>
-        <li class="social-list__item"><a class="social-list__link" href="https://leetcode.com">C</a></li>
+        <li class="social-list__item"><a class="social-list__link" href="https:///github.com/sharmarkee">B</a></li>
+        <li class="social-list__item"><a class="social-list__link" href="https://linkedin.com/en/sharmarke-elmi">C</a></li>
         <li class="social-list__item"><a class="social-list__link"></a></li>
 
     </ul>
 </footer>
       </body>
     </html>
+ 
+ 
+   <link rel="stylesheet" type="text/css" href="/style.css" />
+
+body {
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size: 15px;
+letter-spacing: -0.6px;
+word-spacing: -0.4px;
+color: #000000;
+font-weight: 700;
+text-decoration: none;
+font-style: italic;
+font-variant: normal;
+text-transform: uppercase;
+} 
